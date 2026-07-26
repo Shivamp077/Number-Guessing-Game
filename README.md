@@ -1,12 +1,11 @@
 # Number Guessing Game
 
-A simple Python game where the computer generates a random number between 1 and 100.
+A simple Python game where the computer generates a random number between 1 and 100. The player tries to guess the correct number with hints after each attempt.
 
 ## Features
 - Random number generation
-- User input
 - Input validation
-- Too high / Too low hints
+- Too High / Too Low hints
 - Counts the number of guesses
 
 ## Concepts Used
@@ -17,5 +16,15 @@ A simple Python game where the computer generates a random number between 1 and 
 - try-except
 
 ## How to Run
-Run the file:
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the following command:
+
+```bash
 python number_guessing_game.py
+```
+
+## Author
+
+Shivam
